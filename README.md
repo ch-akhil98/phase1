@@ -33,7 +33,7 @@ when pressed 2 it shows file option menu for adding , deleting , searching the d
 is created in which data abstraction is achieved. which will hide all the implementation details and show only essential 
 information to the user.Scanner class is used to take the inputs. in this the files are stored in a specefic directory
 under the main project, from which we can access and able to modify the files according to the user needs. after the 
-operation is performed when we choose 3 then the application exists.
+operation is performed when we choose 3 then the application exits.
 
                                          
 
